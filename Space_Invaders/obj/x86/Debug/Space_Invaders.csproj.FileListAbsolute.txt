@@ -1,0 +1,20 @@
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\bin\Debug\Space_Invaders.exe
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\bin\Debug\Space_Invaders.pdb
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.SpaceInvadersIntro.resources
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.exe
+d:\documents and settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.pdb
+D:\Documents and Settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.singlePlayer.resources
+D:\Documents and Settings\maox\my documents\visual studio 2010\Projects\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.Form3.resources
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.exe
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.pdb
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\bin\Debug\Space_Invaders.exe
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\bin\Debug\Space_Invaders.pdb
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.SpaceInvadersIntro.resources
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.singlePlayer.resources
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.Form3.resources
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\Ivan\Desktop\space invaders\Space_Invaders\Space_Invaders\obj\x86\Debug\Space_Invaders.csproj.GenerateResource.Cache
